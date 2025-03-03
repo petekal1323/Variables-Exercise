@@ -1,0 +1,15 @@
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\bin\Debug\net9.0\variables-Exercise.exe
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\bin\Debug\net9.0\variables-Exercise.deps.json
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\bin\Debug\net9.0\variables-Exercise.runtimeconfig.json
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\bin\Debug\net9.0\variables-Exercise.dll
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\bin\Debug\net9.0\variables-Exercise.pdb
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.AssemblyInfoInputs.cache
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.AssemblyInfo.cs
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.sourcelink.json
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.dll
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\refint\variables-Exercise.dll
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.pdb
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\variables-Exercise.genruntimeconfig.cache
+C:\Users\pkalinowski\Desktop\repos\Variables-Exercise\variables-Exercise\variables-Exercise\obj\Debug\net9.0\ref\variables-Exercise.dll
